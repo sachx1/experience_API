@@ -1,0 +1,66 @@
+{
+    "Toromont Cat": 
+    [
+        {
+            "Employer": "Toromont Cat",
+            "JobTitle": "Digital Technology Specialist",
+            "YOE": "Feb 2022 - Present",
+            "Location": "3131 Hwy 7, Concord, ON L4K 5E1",
+            "Style": "Remote",
+            "Description": 
+            [
+                {
+                    "PointOne": "Using JavaScript to manipulate JSON datasets, and sending that data to the customer through different forms of communciation.",
+                    "PointTwo": "Working with REST APIs to retrieve data inside our JavaScript solutions",
+                    "PointThree": "Using Python, Flask, JavaScript and Twilio APIs to send SMS/MMS messages to customers",
+                    "PointFour": "Developing HTML Email templates with HTML5 and CSS",
+                    "PointFive": "Creating CPAAS automated solutions with WebEx Connect and JavaScript",
+                    "PointSix": "Utilizing Vanilla JavaScript and JQuery to create jobs which send a JSON payload to the automated flows within WebEx Connect."
+                }
+            ]
+        }
+    ],
+
+    "Chelsea Avondale":
+    [
+        {
+            "Employer": "Chelsea Avondale",
+            "JobTitle": "Junior Front-End Developer",
+            "YOE": "April 2022 - October 2022",
+            "Location": "Kitchener, ON, Canada",
+            "Style": "Remote",
+            "Description":
+            [
+                {
+                    "PointOne": "Developed 3 major reusable components in JavaScript within a month that enhanced performance by 30%.",
+                    "PointTwo": "Utilized Python and Flask to host web servers for our front-end systems.",
+                    "PointThree": "Developed and Debugged JavaScript code during the SDLC.",
+                    "PointFour": "Used a MERN stack structure for our frontend and backend environments.",
+                    "PointFive": "Worked on utilizing containers with Docker which will increase scalability by 50%."
+                }
+            ]
+        }
+    ],
+    
+    "Toronto General Hospital": 
+    [
+        {
+            "Employer": "Toronto General Hospital",
+            "JobTitle": "Intern Web Developer",
+            "YOE": "May 2019 - April 2022",
+            "Location": "Toronto, ON, Canada",
+            "Style": "Hybrid",
+            "Description":
+            [
+                {
+                    "PointOne": "Using ES6 JavaScript to create 3D WebGL Viewers hosted on Firebase.",
+                    "PointTwo": "Use of routers, to direct the user to different pages.",
+                    "PointThree": "Created pages via components and views.",
+                    "PointFour": "Constantly adding features such as a chat box, location commenting.",
+                    "PointFive": "Experience with firebase, which includes database management, reading and writing to the firestore database.",
+                    "PointSix": "Used git along with the firebase CLI to push and deploy changes."
+                }
+            ]
+        }
+    ]
+}
